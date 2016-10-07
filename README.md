@@ -1,2 +1,2 @@
 # PutnamHolson
-Site.
+Static Site.
